@@ -1,4 +1,4 @@
-### Hi  👋
+#### Hi, I'm Piotr  👋
 
 #Tech stack
 

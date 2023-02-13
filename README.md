@@ -1,6 +1,6 @@
 ### Hi, I'm Piotr  👋
 
-- 🔭 I’m currently working on CarRentalApp project
+- 🔭 I’m currently working on Restaurant project
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - I study at University of Science and Technology in Cracow
 
